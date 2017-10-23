@@ -1,0 +1,6 @@
+ru\javarush\bookmanager\model\Book.class
+ru\javarush\bookmanager\service\BookService.class
+ru\javarush\bookmanager\dao\BookDaoImpl.class
+ru\javarush\bookmanager\service\BookServiceImpl.class
+ru\javarush\bookmanager\controller\BookController.class
+ru\javarush\bookmanager\dao\BookDao.class
